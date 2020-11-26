@@ -1,0 +1,23 @@
+h2 {
+    font-family: cursive;
+    font-weight: 500;
+    background-color: burlywood;
+    text-align: center;
+    text-shadow: salmon;
+}
+
+p {
+    font-family: cursive;
+    color: black;
+    font-weight: 400;
+    
+}
+
+table {
+    border-collapse: separate;
+    border-color: darksalmon;
+    background-color: lightgrey;
+    background-repeat: repeat;
+    border-color: (255,255,255 .8);
+    
+}
